@@ -1,8 +1,8 @@
 from django.core.mail import EmailMultiAlternatives
 from django.shortcuts import render, redirect
 from django.conf import settings
-import numpy as np
-import io
+#import numpy as np
+#import io
 # import csv
 from django.core.files.storage import default_storage
 
