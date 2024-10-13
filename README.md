@@ -12,7 +12,7 @@
 
 ![image](https://github.com/user-attachments/assets/562c79f2-16ba-4222-bdbb-f852b8ab4d8b)
 
-## Live Link
+## [Live Link](https://mashup-six.vercel.app)
 
 ## Usage:
 
