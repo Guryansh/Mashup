@@ -49,8 +49,6 @@ python 102218044.py <SingerName> <NumberOfVideos> <AudioDuration> <resultFileNam
 - `<AudioDuration>`: Duration (in seconds) for each audio clip.
 - `<resultFileName>`: Name of the output MP3 file.
 
-![image](https://github.com/user-attachments/assets/562c79f2-16ba-4222-bdbb-f852b8ab4d8b)
-
 ### Example:
 ```bash
 python 102218044.py "Taylor Swift" 5 30 "mashup.mp3"
@@ -67,6 +65,8 @@ python 102218044.py "Taylor Swift" 5 30 "mashup.mp3"
 5. Merge trimmed audio files into a single `.wav` file.
 6. Convert the final `.wav` file to `.mp3`.
 
+![image](https://github.com/user-attachments/assets/562c79f2-16ba-4222-bdbb-f852b8ab4d8b)
+
 ---
 
 ## Dependencies
@@ -78,27 +78,9 @@ python 102218044.py "Taylor Swift" 5 30 "mashup.mp3"
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
----
-
-
 ## Live Link
 
 Check out the live version of the app: [Mashup Generator](https://mashup-six.vercel.app)
 
 ---
-
-## Contribution
-
-Feel free to fork this repository, create a feature branch, and submit a pull request. Contributions are welcome!
-
----
-
-## Acknowledgments
-
-- Inspired by the idea of creating mashups efficiently.
-- Special thanks to the developers of the libraries and APIs used in this project.
-
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
