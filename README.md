@@ -22,7 +22,7 @@ The Mashup Generator is a Python script that generates a mashup of songs by down
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mashup-generator.git
+   git clone https://github.com/Guryansh/Mashup
    ```
 2. Navigate to the project directory:
    ```bash
